@@ -1,1 +1,1 @@
-web: java -jar target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
+web: mvn spring-boot:run
